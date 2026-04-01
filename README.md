@@ -11,6 +11,7 @@ Batch-convert Audible `.aax` files to `.m4b` on Ubuntu-based Linux distributions
 - Removes non-book metadata and writes back only book-related metadata such as title, author, and series.
 - Looks for source files in `~/Music/audiobooks/aax` by default.
 - Writes output files to `~/Music/audiobooks/need_to_zip` by default.
+- For full (less technical) guide, follow the steps in [How to convert AAX2M4B.md](https://github.com/skelebat-203/aax2m4b/blob/main/How%20to%20convert%20AAX2M4B.md)
 
 ## Target systems
 
